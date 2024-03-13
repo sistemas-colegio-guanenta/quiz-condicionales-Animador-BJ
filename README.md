@@ -25,4 +25,4 @@ Variables de proceso y salida (processig,storage, output)
 # DISEÑO
 
 ### Diagrama de flujo
-![Diagrama de flujo](diagrama.png "Diagrama de flujo")
+![Diagrama de flujo](diagrama.png)
